@@ -1,4 +1,7 @@
 /node_modules/
-webpack.config.js
-README.md
+component.js
+index.js
 package.json
+README.md
+webpack.config.js
+
