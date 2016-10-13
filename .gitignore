@@ -1,6 +1,7 @@
 /node_modules/
 component.js
 index.js
-package.json
+packageCpy.json
+README.md
 webpack.config.js
 
